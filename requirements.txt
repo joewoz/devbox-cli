@@ -1,0 +1,4 @@
+typer
+jproperties
+boto3
+requests
