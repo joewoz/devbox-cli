@@ -1,7 +1,7 @@
 from datetime import datetime, timezone
 from typing import Optional
 import typer
-from devbox import __app_name__, __version__, ssm, sts, ec2
+from devbox import __app_name__, __version__, ec2
 app = typer.Typer()
 from requests import get
 
