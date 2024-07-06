@@ -72,6 +72,6 @@ def main(version: Optional[bool] = typer.Option(
         callback=_version_callback,
         is_eager=True)) -> None:
     """
-    Welcome to the SRNet CLI!
+    Welcome to the devbox CLI!
     """
     pass
